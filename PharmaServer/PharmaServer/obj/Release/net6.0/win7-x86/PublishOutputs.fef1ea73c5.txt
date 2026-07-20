@@ -1,0 +1,6 @@
+C:\Users\ma516\OneDrive\Desktop\Pharma\PharmaServer\PharmaServer\bin\Release\net6.0\win7-x86\publish\appsettings.Development.json
+C:\Users\ma516\OneDrive\Desktop\Pharma\PharmaServer\PharmaServer\bin\Release\net6.0\win7-x86\publish\appsettings.json
+C:\Users\ma516\OneDrive\Desktop\Pharma\PharmaServer\PharmaServer\bin\Release\net6.0\win7-x86\publish\PharmaServer.pdb
+C:\Users\ma516\OneDrive\Desktop\Pharma\PharmaServer\PharmaServer\bin\Release\net6.0\win7-x86\publish\aspnetcorev2_inprocess.dll
+C:\Users\ma516\OneDrive\Desktop\Pharma\PharmaServer\PharmaServer\bin\Release\net6.0\win7-x86\publish\e_sqlite3.dll
+C:\Users\ma516\OneDrive\Desktop\Pharma\PharmaServer\PharmaServer\bin\Release\net6.0\win7-x86\publish\PharmaServer.exe

@@ -1,0 +1,4 @@
+C:\Users\ma516\OneDrive\Desktop\Pharma\Release\Server\appsettings.Development.json
+C:\Users\ma516\OneDrive\Desktop\Pharma\Release\Server\appsettings.json
+C:\Users\ma516\OneDrive\Desktop\Pharma\Release\Server\PharmaServer.pdb
+C:\Users\ma516\OneDrive\Desktop\Pharma\Release\Server\PharmaServer.exe

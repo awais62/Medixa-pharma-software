@@ -1,0 +1,192 @@
+C:\Users\ma516\OneDrive\Desktop\Pharma\bin\Debug\Source\Data\schema.sql
+C:\Users\ma516\OneDrive\Desktop\Pharma\bin\Debug\x64\e_sqlite3.dll
+C:\Users\ma516\OneDrive\Desktop\Pharma\bin\Debug\x86\e_sqlite3.dll
+C:\Users\ma516\OneDrive\Desktop\Pharma\bin\Debug\PharmaBilling.exe
+C:\Users\ma516\OneDrive\Desktop\Pharma\bin\Debug\PharmaBilling.pdb
+C:\Users\ma516\OneDrive\Desktop\Pharma\bin\Debug\System.Data.SQLite.dll
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\MainWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\LoginWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\DashboardWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SaleWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SearchMedicineWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\MedicineWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SupplierWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\CustomerWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AccountingWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\ReportWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\PurchaseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\ChangePasswordWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddMedicineWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddCustomerWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddPurchaseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddSupplierWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\InvoiceWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Styles\ModernUI.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\DashboardUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\MedicineUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SaleUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AccountingUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\ReportUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\PurchaseUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\CustomerUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SupplierUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\BackupUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\ChangePasswordUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SettingsUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\LicenseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\App.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\MainWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\LoginWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\DashboardWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SaleWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SearchMedicineWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\MedicineWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SupplierWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\CustomerWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AccountingWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\ReportWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\PurchaseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\ChangePasswordWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddMedicineWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddCustomerWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddPurchaseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddSupplierWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\InvoiceWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\DashboardUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\MedicineUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SaleUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AccountingUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\ReportUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\PurchaseUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\CustomerUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SupplierUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\BackupUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\ChangePasswordUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SettingsUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\LicenseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\App.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\PharmaBilling_MarkupCompile.cache
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\PharmaBilling.g.resources
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\PharmaBilling.exe
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\PharmaBilling.pdb
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AnalysisUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AnalysisUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SaleTabsUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SaleTabsUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\LoosePurchaseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\OpeningPurchaseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\LoosePurchaseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\OpeningPurchaseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\PurchaseReturnWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SaleReturnWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\PurchaseReturnWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\SaleReturnWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\StaffUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddStaffWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\StaffUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddStaffWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\UsersUC.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddUserWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\UsersUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\AddUserWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\NetworkConfigWindow.baml
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\Source\Views\NetworkConfigWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\Pharma\obj\Debug\PharmaBilling.csprojResolveAssemblyReference.cache
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\MainWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\LoginWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\DashboardWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SaleWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SearchMedicineWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\MedicineWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SupplierWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\CustomerWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AccountingWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\ReportWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\PurchaseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\ChangePasswordWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddMedicineWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddCustomerWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddPurchaseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddSupplierWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\InvoiceWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Styles\ModernUI.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\DashboardUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\MedicineUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SaleUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SaleTabsUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AccountingUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\ReportUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\PurchaseUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\CustomerUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SupplierUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\BackupUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\ChangePasswordUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SettingsUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\LicenseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AnalysisUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\PurchaseReturnWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\LoosePurchaseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\OpeningPurchaseWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SaleReturnWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\StaffUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddStaffWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\NetworkConfigWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\UsersUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddUserWindow.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\App.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\MainWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\LoginWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\DashboardWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SaleWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SearchMedicineWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\MedicineWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SupplierWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\CustomerWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AccountingWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\ReportWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\PurchaseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\ChangePasswordWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddMedicineWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddCustomerWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddPurchaseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddSupplierWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\InvoiceWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\DashboardUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\MedicineUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SaleUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SaleTabsUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AccountingUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\ReportUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\PurchaseUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\CustomerUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SupplierUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\BackupUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\ChangePasswordUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SettingsUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\LicenseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AnalysisUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\PurchaseReturnWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\LoosePurchaseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\OpeningPurchaseWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\SaleReturnWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\StaffUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddStaffWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\NetworkConfigWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\UsersUC.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\AddUserWindow.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\App.g.cs
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\PharmaBilling_MarkupCompile.cache
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\PharmaBilling.g.resources
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\PharmaBilling.exe
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\PharmaBilling.pdb
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\bin\Debug\Source\Data\schema.sql
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\bin\Debug\x64\e_sqlite3.dll
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\bin\Debug\x86\e_sqlite3.dll
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\bin\Debug\PharmaBilling.exe
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\bin\Debug\PharmaBilling.pdb
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\bin\Debug\System.Data.SQLite.dll
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\PharmaBilling.csproj.AssemblyReference.cache
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\PharmaBilling.csproj.CoreCompileInputs.cache
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\PharmaBi.F448D5AF.Up2Date
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\StockUC.baml
+C:\Users\ma516\OneDrive\Desktop\1 . Pharma\obj\Debug\Source\Views\StockUC.g.cs
