@@ -1,5 +1,6 @@
 using System.Windows;
 using PharmaBilling.Source.ViewModels;
+using PharmaBilling.Source.Data;
 
 namespace PharmaBilling.Source.Views
 {
@@ -36,6 +37,9 @@ namespace PharmaBilling.Source.Views
                 bool ok = _vm.SaveReturn();
                 if (ok)
                 {
+                    // ── Notify cloud sync immediately ────────────────────────
+                    AppEvents.OnSaleDataChanged();
+
                     MessageBox.Show("Sale return processed successfully!\nStock restored and ledger posted.",
                         "Success", MessageBoxButton.OK, MessageBoxImage.Information);
                     this.DialogResult = true;

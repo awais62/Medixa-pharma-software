@@ -239,9 +239,12 @@ namespace PharmaBilling.Source.ViewModels
         private void CalculateTotal()
         {
             // ── OFFICIAL FORMULA (agreed) ─────────────────────────────────────
-            // Total = Packs × TP   (TP is always the price per ONE full pack)
-            // LooseQty is tracked for stock purposes only — NOT added to Total.
-            TotalPrice = Math.Round(TP * Packs, 2);
+            // Normal Purchase: Total = Packs × TP
+            // Loose Purchase (Packs = 0): Total = Quantity × TP  (LoosePurchaseWindow binds to QuantityStr)
+            if (Packs > 0)
+                TotalPrice = Math.Round(TP * Packs, 2);
+            else
+                TotalPrice = Math.Round(TP * Quantity, 2);
         }
     }
 }

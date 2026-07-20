@@ -2,6 +2,7 @@ using System;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Threading;
+using PharmaBilling.Source.Data;
 using PharmaBilling.Source.Models;
 using PharmaBilling.Source.ViewModels;
 
@@ -119,6 +120,9 @@ namespace PharmaBilling.Source.Views
                 bool ok = _vm.SavePurchaseWithType("Loose");
                 if (ok)
                 {
+                    // ── Notify cloud sync immediately ────────────────────────
+                    AppEvents.OnPurchaseDataChanged();
+
                     MessageBox.Show("Loose purchase saved successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
                     this.DialogResult = true;
                     this.Close();
